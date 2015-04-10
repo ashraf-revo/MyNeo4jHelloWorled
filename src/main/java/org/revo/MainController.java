@@ -15,7 +15,7 @@ public class MainController {
 
     @RequestMapping("/")
     public String index() {
-        service.create("ddddd", "ddddddd");
+        service.create("zzzzz", "fffffff");
         return "hhh";
     }
 }
